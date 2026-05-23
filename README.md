@@ -4,7 +4,7 @@ Track your time, health, habits, and money — all in one clean page that resets
 ---
 
 ## Live Demo
-_Coming soon_
+https://mini-life-dashboard.vercel.app/
 
 ---
 
